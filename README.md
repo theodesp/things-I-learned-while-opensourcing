@@ -21,6 +21,11 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * Decorators can be usefull for adding metadata properties in a seemless way.
 * Its important to have a good PULL_REQUEST_TEMPLATE, CONTRIBUTING and ISSUE_TEMPLATE to our projects.
 * [Appveyor](https://www.appveyor.com/) is really cool CI for Windows.
+
+[angular-es6-mobx-flux-example](https://github.com/theodesp/angular-es6-mobx-flux-example)
+---
+* Angular 1.5+ versions introduced Lifecycle Hooks and Components [Link](https://toddmotto.com/angular-1-5-lifecycle-hooks). so its really easy to write clean angular code that resembles React Components.
+* ES6 in Angular 1 is not so bad. We can leveerage the power of Mobx to have a very scalable applications without having to learn another framework.
  
 
 ### Contributing
