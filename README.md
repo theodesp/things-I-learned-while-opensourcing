@@ -13,6 +13,15 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * Python has a libary called [chardet](http://chardet.readthedocs.io/en/latest/usage.html) that detects with a certain probability the encoding of a file.
 * In general if a file containes a high ratio or non printable chars or some certain null bytes it is considered binary but not all the times.
 
+[Inversify](https://github.com/inversify/InversifyJS)
+---
+* Inversion of control is more than having a map of keys and objects. Often you need more customization.
+* Inversify.js has a really good project structure for Typescript apps.
+* [Reflect-Metadata](https://www.npmjs.com/package/reflect-metadata) Can be used to add additional meta properties to parameters or classes
+* Decorators can be usefull for adding metadata properties in a seemless way.
+* Its important to have a good PULL_REQUEST_TEMPLATE, CONTRIBUTING and ISSUE_TEMPLATE to our projects.
+* [Appveyor](https://www.appveyor.com/) is really cool CI for Windows.
+ 
 
 ### Contributing
 
