@@ -36,6 +36,10 @@ The only problem is that [Node C++ Documendation](https://nodejs.org/api/n-api.h
 ---
 * [Kyt](https://github.com/NYTimes/kyt) Is a very versatile foundation for building webpack apps. Its one of the easiest tools to use.
 
+[fetch-future](https://github.com/theodesp/fetch-future)
+---
+* *Futures* are one of the best alternatives to Promises [See why](https://github.com/fluture-js/Fluture/wiki/Comparison-to-Promises) as they are composable and cancelable.
+
 ## Contributing
 If you like this project and you would like to share your valuable knowledge you can clone/for the project and Submit a PR.
 
