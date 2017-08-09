@@ -32,6 +32,10 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * [Node Gyp](https://github.com/nodejs/node-gyp) Can be used to write native applications in C/C++ and reference them in Node.
 The only problem is that [Node C++ Documendation](https://nodejs.org/api/n-api.html) is not very good.
 
+[Kyt-starter](https://github.com/theodesp/kyt-starter)
+---
+* [Kyt](https://github.com/NYTimes/kyt) Is a very versatile foundation for building webpack apps. Its one of the easiest tools to use.
+
 ## Contributing
 If you like this project and you would like to share your valuable knowledge you can clone/for the project and Submit a PR.
 
