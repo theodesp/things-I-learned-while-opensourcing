@@ -25,13 +25,12 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 [angular-es6-mobx-flux-example](https://github.com/theodesp/angular-es6-mobx-flux-example)
 ---
 * Angular 1.5+ versions introduced Lifecycle Hooks and Components [Link](https://toddmotto.com/angular-1-5-lifecycle-hooks). so its really easy to write clean angular code that resembles React Components.
-* ES6 in Angular 1 is not so bad. We can leveerage the power of Mobx to have a very scalable applications without having to learn another framework.
- 
+* ES6 in Angular 1 is not so bad. We can leverage the power of Mobx to have a very scalable applications without having to learn another framework.
 
-### Contributing
 
+## Contributing
 If you like this project and you would like to share your valuable knowledge you can clone/for the project and Submit a PR.
 
-Licence
+## Licence
 
 MIT © Theo Despoudis
