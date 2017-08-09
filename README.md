@@ -27,6 +27,10 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * Angular 1.5+ versions introduced Lifecycle Hooks and Components [Link](https://toddmotto.com/angular-1-5-lifecycle-hooks). so its really easy to write clean angular code that resembles React Components.
 * ES6 in Angular 1 is not so bad. We can leverage the power of Mobx to have a very scalable applications without having to learn another framework.
 
+[Cache Line](https://github.com/theodesp/cache-line)
+---
+* [Node Gyp](https://github.com/nodejs/node-gyp) Can be used to write native applications in C/C++ and reference them in Node.
+The only problem is that [Node C++ Documendation](https://nodejs.org/api/n-api.html) is not very good.
 
 ## Contributing
 If you like this project and you would like to share your valuable knowledge you can clone/for the project and Submit a PR.
