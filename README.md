@@ -27,6 +27,8 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * [Click](http://click.pocoo.org/5/) is as really cool package for creating beautiful command line interfaces.
 * [Jinja Templates](http://jinja.pocoo.org/) has really cool features for debugging and sandboxing.
 * [pytest](https://docs.pytest.org/en/latest/) is the defacto testing framework for python.
+* Pytest with --cov reporting does not work well with PyCharm.
+* You can pass a custom environmnent to [Popen](https://docs.python.org/2/library/subprocess.html#popen-constructor)
 
 [angular-es6-mobx-flux-example](https://github.com/theodesp/angular-es6-mobx-flux-example)
 ---
