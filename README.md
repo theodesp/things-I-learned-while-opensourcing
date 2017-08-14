@@ -22,6 +22,12 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * Its important to have a good PULL_REQUEST_TEMPLATE, CONTRIBUTING and ISSUE_TEMPLATE to our projects.
 * [Appveyor](https://www.appveyor.com/) is really cool CI for Windows.
 
+[Cookiecutter](https://github.com/audreyr/cookiecutter)
+---
+* [Click](http://click.pocoo.org/5/) is as really cool package for creating beautiful command line interfaces.
+* [Jinja Templates](http://jinja.pocoo.org/) has really cool features for debugging and sandboxing.
+* [pytest](https://docs.pytest.org/en/latest/) is the defacto testing framework for python.
+
 [angular-es6-mobx-flux-example](https://github.com/theodesp/angular-es6-mobx-flux-example)
 ---
 * Angular 1.5+ versions introduced Lifecycle Hooks and Components [Link](https://toddmotto.com/angular-1-5-lifecycle-hooks). so its really easy to write clean angular code that resembles React Components.
