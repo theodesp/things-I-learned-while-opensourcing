@@ -29,6 +29,7 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * [pytest](https://docs.pytest.org/en/latest/) is the defacto testing framework for python.
 * Pytest with --cov reporting does not work well with PyCharm.
 * You can pass a custom environmnent to [Popen](https://docs.python.org/2/library/subprocess.html#popen-constructor)
+* Windows accepts only strings for env variables. Use os.pathsep to enable crossplatform separators.
 
 [angular-es6-mobx-flux-example](https://github.com/theodesp/angular-es6-mobx-flux-example)
 ---
