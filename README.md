@@ -31,6 +31,15 @@ binary. See [link](http://eli.thegreenplace.net/2011/10/19/perls-guess-if-file-i
 * You can pass a custom environmnent to [Popen](https://docs.python.org/2/library/subprocess.html#popen-constructor)
 * Windows accepts only strings for env variables. Use os.pathsep to enable crossplatform separators.
 
+[RQ](https://github.com/nvie/rq)
+---
+* [rg](https://www.mankier.com/1/rg) is a command line tool similar to grep and silver searcher
+* [SIGRTMIN](https://dougsland.livejournal.com/43885.html) Signals are not defined for MacOS
+* [twine](https://pypi.python.org/pypi/twine) Is a tool to help you interact with PyPi
+* [flushdb redis command](https://redis.io/commands/flushdb) clears all keys of a database. This command never fails.
+* In old python runtimes `assertIsNotNone` is not defined
+* `unicode` command is not defined for python3
+
 [angular-es6-mobx-flux-example](https://github.com/theodesp/angular-es6-mobx-flux-example)
 ---
 * Angular 1.5+ versions introduced Lifecycle Hooks and Components [Link](https://toddmotto.com/angular-1-5-lifecycle-hooks). so its really easy to write clean angular code that resembles React Components.
